@@ -1,6 +1,6 @@
 # Minecraft-ItemObliterator
 
-List of craft what you use for to delete items of mods in you Modpack, for use you need install the of Item Obliterator and paste the file.json5 in config folder of you Minecraft or Folder of you Modpack
+List of craft what you use for to delete items of mods in you Modpack, for use you need install the of Item Obliterator and paste the file.json5 in config folder of you Minecraft or Folder of you Modpack.
 
 If you want delete items of minecraft vanilla or mods and you dont know how, comment in issues :D
 
